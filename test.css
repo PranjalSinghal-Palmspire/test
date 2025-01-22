@@ -1,6 +1,7 @@
 h1{
     font: 1em sans-serif;
     color:red;
+    line-height: normal;
 }
 body{
     background-color: #000;
